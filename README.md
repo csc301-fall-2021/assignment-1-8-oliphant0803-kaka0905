@@ -9,8 +9,9 @@ Once you click "CHECKOUT",  the items you places in your cart will be emptied.
 
 ## Responsive Web Demo
 
-https://raw.githubusercontent.com/csc301-fall-2021/assignment-1-8-oliphant0803-kaka0905/main/.github/images/videodemo1.mp4
-## Web App Functionalities Demo
-https://raw.githubusercontent.com/csc301-fall-2021/assignment-1-8-oliphant0803-kaka0905/main/.github/images/videodemo2.mp4
+[![Demo functionalities]](https://www.youtube.com/watch?v=mHV4HPr7cys&ab_channel=OliverHuang)
 
-https://raw.githubusercontent.com/csc301-fall-2021/assignment-1-8-oliphant0803-kaka0905/main/.github/images/videodemo3.mp4
+## Web App Functionalities Demo
+[![Demo shopping page]](https://www.youtube.com/watch?v=nRORA4yUsso&ab_channel=OliverHuang)
+
+[![Demo cart page]](https://www.youtube.com/watch?v=HUg-V3QVCKA&ab_channel=OliverHuang)
